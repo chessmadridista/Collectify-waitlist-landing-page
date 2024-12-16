@@ -40,7 +40,7 @@ function HeroSection() {
                         </ul>
                         {/* CTA button */}
                         <Link target='_blank' href='https://app.youform.com/forms/ei2stxvq' className={cn(buttonVariants({ size: 'lg' }), "flex items-center justify-center mt-8 group")}>
-                            <span>Join the waitlist</span>
+                            <span>Get early access for $1/month</span>
                             <ArrowRight className='ml-1.5 transform h-4 w-4 transition-transform duration-300 group-hover:translate-x-1' />
                         </Link>
 
